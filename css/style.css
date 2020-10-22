@@ -12,7 +12,7 @@ p {
 }
 
 html, body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 100%;
   background: #fff;
 }
@@ -169,7 +169,7 @@ p.design {
   border-top: 1px solid #fff;
   padding-top: 3em;
   margin-top: 3em;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #fff;
   font-size: 1em;
   margin-bottom: 2em;
@@ -181,10 +181,40 @@ p.design a {
 
 .nav_social h3 {
   color: #fff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1em;
   font-weight: 400;
   margin-bottom: 1em;
+}
+
+h1 {
+  padding: 30px 30px 20px 30px;
+  font-family: 'Noto Sans',Roboto,Arial,sans-serif;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  color: #3c4043;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.additional_text {
+  letter-spacing: .025em;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: .75rem;
+  font-weight: 400;
+  line-height: 1rem;
+  padding: 3px;
+}
+
+#logo_lyceum {
+  height: 30px;
+  width: 30px;
+}
+
+p {
+  text-align: center;
+  padding-bottom: 10px;
 }
 
 /*--portfolio--*/
@@ -273,7 +303,7 @@ ul.portfolio_head2 {
 
 .portfolio_top {
   background: #02392E;
-  min-height: 270px;
+  min-height: 248px;
   text-align: center;
   padding: 4em 0 0;
   width: 100%;
@@ -333,7 +363,7 @@ ul.portfolio_head2 {
 
 .service_right {
   background: #02392E;
-  min-height: 250px;
+  min-height: 90px;
   float: right;
   padding: 3em 5em;
 }
@@ -561,7 +591,7 @@ ul.blog_top li {
 }
 
 ul.blog_top li.blog1 {
-  background: #00b6cc;
+  background: #ce5f4c;
   position: relative;
 }
 
@@ -583,7 +613,7 @@ ul.blog_top li.blog2 {
 }
 
 ul.blog_top li.blog3 {
-  background: #00727f;
+  background: #5d242a;
 }
 
 ul.blog_top li.blog4 {
@@ -593,7 +623,7 @@ ul.blog_top li.blog4 {
 }
 
 ul.blog_top li.blog5 {
-  background: #4cecff;
+  background: #85a485
 }
 
 ul.blog_top li.blog6 {

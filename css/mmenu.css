@@ -161,7 +161,7 @@ html.mm-opened body
 	display: block;
 	padding: 0 10px 0 0;
 	margin: 0;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 10px;
 	letter-spacing:2px;
@@ -303,14 +303,14 @@ html.mm-blocking #mm-blocker
 .mm-is-menu li > a:hover,
 .mm-is-menu li > span:hover
 {
-	color:#00e4ff;
+	color:#02392E;
 	background:#fff;
 }
 .mm-menu li.mm-selected > a,
 .mm-menu li.mm-selected > span
 {
 	background:#fff;
-	color:#00e4ff;
+	color:#02392E;
 }
 .mm-menu li.mm-selected > a.mm-subopen
 {
