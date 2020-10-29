@@ -189,7 +189,7 @@ p.design a {
 
 h1 {
   padding: 30px 30px 20px 30px;
-  font-family: 'Noto Sans',Roboto,Arial,sans-serif;
+  font-family: 'Noto Sans', Roboto, Arial, sans-serif;
   font-size: .875rem;
   font-weight: 500;
   line-height: 1.25rem;
@@ -200,7 +200,7 @@ h1 {
 
 .additional_text {
   letter-spacing: .025em;
-  font-family: Roboto,Arial,sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: .75rem;
   font-weight: 400;
   line-height: 1rem;
@@ -412,7 +412,7 @@ i.camera {
 
 .hi-icon {
   display: inline-block;
-  font-size: 0px;
+  font-size: 0;
   cursor: pointer;
   text-align: center;
   position: relative;
@@ -618,7 +618,7 @@ ul.blog_top li.blog3 {
 
 ul.blog_top li.blog4 {
   background: #02392E;
-  padding: 3em 0em;
+  padding: 3em 0;
   min-height: 275px;
 }
 
@@ -837,14 +837,14 @@ menu#cl-effect-8 {
   color-stop(.75, transparent), to(transparent)
   );
   background-image: -moz-linear-gradient(
-    -45deg,
-    rgba(255, 255, 255, .2) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgba(255, 255, 255, .2) 50%,
-    rgba(255, 255, 255, .2) 75%,
-    transparent 75%,
-    transparent
+      -45deg,
+      rgba(255, 255, 255, .2) 25%,
+      transparent 25%,
+      transparent 50%,
+      rgba(255, 255, 255, .2) 50%,
+      rgba(255, 255, 255, .2) 75%,
+      transparent 75%,
+      transparent
   );
   z-index: 1;
   -webkit-background-size: 50px 50px;
