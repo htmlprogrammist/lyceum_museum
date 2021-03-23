@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6f7cdade-614f-4fc1-b9e2-855fafbd20c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
       <workItem from="1603027711275" duration="1332000" />
       <workItem from="1603976092083" duration="1062000" />
       <workItem from="1603986027895" duration="227000" />
-      <workItem from="1616484939321" duration="198000" />
+      <workItem from="1616484939321" duration="893000" />
     </task>
     <servers />
   </component>
@@ -58,21 +60,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="127" key="#CSS" timestamp="1603976277404">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="421" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616485409473">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="320" y="127" key="#CSS/0.23.1440.877/1440.67.1024.745@0.23.1440.877" timestamp="1603976277404" />
-    <state x="320" y="127" key="#HTML" timestamp="1603976656356">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="127" key="#HTML/0.23.1440.877/1440.67.1024.745@0.23.1440.877" timestamp="1603976656356" />
-    <state x="320" y="127" key="#Web_Browsers" timestamp="1603976856191">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="127" key="#Web_Browsers/0.23.1440.877/1440.67.1024.745@0.23.1440.877" timestamp="1603976856191" />
-    <state x="513" y="158" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603976220769">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="513" y="158" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877/1440.67.1024.745@0.23.1440.877" timestamp="1603976220769" />
+    <state x="421" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813@0.23.1440.813" timestamp="1616485409473" />
   </component>
 </project>
