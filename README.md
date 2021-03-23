@@ -1,5 +1,5 @@
-# lyceum_museum
+# Школьный музей
 Лицейский музей теперь доступен онлайн
 
-# Link to the deployed website
+# Ссылка на демо-версию сайта
 https://htmlprogrammist.github.io/lyceum_museum/
