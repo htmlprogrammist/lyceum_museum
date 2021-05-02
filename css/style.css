@@ -190,10 +190,10 @@ p.design a {
 h1 {
   padding: 30px 30px 20px 30px;
   font-family: 'Noto Sans', Roboto, Arial, sans-serif;
-  font-size: .875rem;
-  font-weight: 500;
+  font-size: 24px;
+  font-weight: 600;
   line-height: 1.25rem;
-  color: #3c4043;
+  color: #191a1b;
   margin-bottom: 8px;
   text-align: center;
 }
