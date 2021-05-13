@@ -26,7 +26,8 @@ body a {
 }
 
 .header {
-  background: url(../images/background.webp) no-repeat center top;
+  /* background: url(../images/background.webp) no-repeat center top; */
+  background-color: #9ab5b2;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -189,11 +190,13 @@ p.design a {
 
 h1 {
   padding: 30px 30px 20px 30px;
+  position: absolute;
   font-family: 'Open Sans', Roboto, Arial, sans-serif;
-  font-size: 24px;
+  font-size: 60px;
   font-weight: 600;
-  line-height: 1.25rem;
-  color: #191a1b;
+  top: 140px;
+  /* color: #191a1b; */
+  color: #ffffff;
   margin-bottom: 8px;
   text-align: center;
 }
